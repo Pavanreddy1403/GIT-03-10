@@ -1,7 +1,7 @@
 import numpy
 
-a=6
-b=9
+a=5
+b=7
 c=a+b
 
 print "The sum of two numbers is " c
